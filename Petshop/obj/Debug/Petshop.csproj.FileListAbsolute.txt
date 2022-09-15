@@ -1,0 +1,135 @@
+C:\Users\ROOT\Desktop\Petshop\Petshop\obj\Debug\Petshop.csproj.AssemblyReference.cache
+C:\Users\ROOT\Desktop\Petshop\Petshop\obj\Debug\Petshop.csproj.SuggestedBindingRedirects.cache
+C:\Users\ROOT\Desktop\Petshop\Petshop\obj\Debug\Petshop.Properties.Resources.resources
+C:\Users\ROOT\Desktop\Petshop\Petshop\obj\Debug\Petshop.csproj.GenerateResource.cache
+C:\Users\ROOT\Desktop\Petshop\Petshop\obj\Debug\Petshop.csproj.CoreCompileInputs.cache
+C:\Users\ROOT\Desktop\Petshop\Petshop\obj\Debug\Petshop.frmAnasayfa.resources
+C:\Users\ROOT\Desktop\Petshop\Petshop\obj\Debug\Petshop.frmUrunler.resources
+C:\Users\ROOT\Desktop\Petshop\Petshop\obj\Debug\Petshop.frmBorcOde.resources
+C:\Users\ROOT\Desktop\Petshop\Petshop\obj\Debug\Petshop.frmMusteriIslemleri.resources
+C:\Users\ROOT\Desktop\Petshop\Petshop\obj\Debug\Petshop.frmMusteriler.resources
+C:\Users\ROOT\Desktop\Petshop\Petshop\obj\Debug\Petshop.frmSatis.resources
+C:\Users\ROOT\Desktop\Petshop\Petshop\obj\Debug\Petshop.frmStok.resources
+C:\Users\ROOT\Desktop\Petshop\Petshop\obj\Debug\Petshop.frmUrunIslemleri.resources
+C:\Users\ROOT\Desktop\Petshop\Petshop\obj\Debug\Petshop.frmSatislar.resources
+C:\Users\ROOT\Desktop\Petshop\Petshop\obj\Debug\Petshop.frmKullaniciGirisi.resources
+C:\Users\ROOT\Desktop\Petshop\Petshop\obj\Debug\Petshop.frmKullaniciIslemleri.resources
+C:\Users\ROOT\Desktop\Petshop\Petshop\obj\Debug\Petshop.frmKullanicilar.resources
+C:\Users\ROOT\Desktop\Petshop\Petshop\bin\Debug\dpR Satış ve Stok Takip.exe.config
+C:\Users\ROOT\Desktop\Petshop\Petshop\bin\Debug\dpR Satış ve Stok Takip.exe
+C:\Users\ROOT\Desktop\Petshop\Petshop\bin\Debug\dpR Satış ve Stok Takip.pdb
+C:\Users\ROOT\Desktop\Petshop\Petshop\obj\Debug\dpR Satış ve Stok Takip.exe
+C:\Users\ROOT\Desktop\Petshop\Petshop\obj\Debug\dpR Satış ve Stok Takip.pdb
+C:\Users\tayyi\Desktop\SİSTEM ANALİZİ SON HALİ\son hali\Petshop\Petshop\bin\Debug\dpR Satış ve Stok Takip.exe.config
+C:\Users\tayyi\Desktop\SİSTEM ANALİZİ SON HALİ\son hali\Petshop\Petshop\bin\Debug\dpR Satış ve Stok Takip.exe
+C:\Users\tayyi\Desktop\SİSTEM ANALİZİ SON HALİ\son hali\Petshop\Petshop\bin\Debug\dpR Satış ve Stok Takip.pdb
+C:\Users\tayyi\Desktop\SİSTEM ANALİZİ SON HALİ\son hali\Petshop\Petshop\obj\Debug\Petshop.csproj.AssemblyReference.cache
+C:\Users\tayyi\Desktop\SİSTEM ANALİZİ SON HALİ\son hali\Petshop\Petshop\obj\Debug\Petshop.csproj.SuggestedBindingRedirects.cache
+C:\Users\tayyi\Desktop\SİSTEM ANALİZİ SON HALİ\son hali\Petshop\Petshop\obj\Debug\Petshop.frmAnasayfa.resources
+C:\Users\tayyi\Desktop\SİSTEM ANALİZİ SON HALİ\son hali\Petshop\Petshop\obj\Debug\Petshop.frmBorcOde.resources
+C:\Users\tayyi\Desktop\SİSTEM ANALİZİ SON HALİ\son hali\Petshop\Petshop\obj\Debug\Petshop.frmKullaniciGirisi.resources
+C:\Users\tayyi\Desktop\SİSTEM ANALİZİ SON HALİ\son hali\Petshop\Petshop\obj\Debug\Petshop.frmKullaniciIslemleri.resources
+C:\Users\tayyi\Desktop\SİSTEM ANALİZİ SON HALİ\son hali\Petshop\Petshop\obj\Debug\Petshop.frmKullanicilar.resources
+C:\Users\tayyi\Desktop\SİSTEM ANALİZİ SON HALİ\son hali\Petshop\Petshop\obj\Debug\Petshop.frmMusteriIslemleri.resources
+C:\Users\tayyi\Desktop\SİSTEM ANALİZİ SON HALİ\son hali\Petshop\Petshop\obj\Debug\Petshop.frmMusteriler.resources
+C:\Users\tayyi\Desktop\SİSTEM ANALİZİ SON HALİ\son hali\Petshop\Petshop\obj\Debug\Petshop.Properties.Resources.resources
+C:\Users\tayyi\Desktop\SİSTEM ANALİZİ SON HALİ\son hali\Petshop\Petshop\obj\Debug\Petshop.frmSatis.resources
+C:\Users\tayyi\Desktop\SİSTEM ANALİZİ SON HALİ\son hali\Petshop\Petshop\obj\Debug\Petshop.frmSatislar.resources
+C:\Users\tayyi\Desktop\SİSTEM ANALİZİ SON HALİ\son hali\Petshop\Petshop\obj\Debug\Petshop.frmStok.resources
+C:\Users\tayyi\Desktop\SİSTEM ANALİZİ SON HALİ\son hali\Petshop\Petshop\obj\Debug\Petshop.frmUrunIslemleri.resources
+C:\Users\tayyi\Desktop\SİSTEM ANALİZİ SON HALİ\son hali\Petshop\Petshop\obj\Debug\Petshop.frmUrunler.resources
+C:\Users\tayyi\Desktop\SİSTEM ANALİZİ SON HALİ\son hali\Petshop\Petshop\obj\Debug\Petshop.csproj.GenerateResource.cache
+C:\Users\tayyi\Desktop\SİSTEM ANALİZİ SON HALİ\son hali\Petshop\Petshop\obj\Debug\Petshop.csproj.CoreCompileInputs.cache
+C:\Users\tayyi\Desktop\SİSTEM ANALİZİ SON HALİ\son hali\Petshop\Petshop\obj\Debug\dpR Satış ve Stok Takip.exe
+C:\Users\tayyi\Desktop\SİSTEM ANALİZİ SON HALİ\son hali\Petshop\Petshop\obj\Debug\dpR Satış ve Stok Takip.pdb
+C:\Users\tayyi\Desktop\YENİ YOLLANICAK SİSTEM ANALİZ RAPOLARIM\SİSTEM ANALİZİ SON HALİ\son hali\Petshop\Petshop\bin\Debug\dpR Satış ve Stok Takip.exe.config
+C:\Users\tayyi\Desktop\YENİ YOLLANICAK SİSTEM ANALİZ RAPOLARIM\SİSTEM ANALİZİ SON HALİ\son hali\Petshop\Petshop\bin\Debug\dpR Satış ve Stok Takip.exe
+C:\Users\tayyi\Desktop\YENİ YOLLANICAK SİSTEM ANALİZ RAPOLARIM\SİSTEM ANALİZİ SON HALİ\son hali\Petshop\Petshop\bin\Debug\dpR Satış ve Stok Takip.pdb
+C:\Users\tayyi\Desktop\YENİ YOLLANICAK SİSTEM ANALİZ RAPOLARIM\SİSTEM ANALİZİ SON HALİ\son hali\Petshop\Petshop\obj\Debug\Petshop.csproj.AssemblyReference.cache
+C:\Users\tayyi\Desktop\YENİ YOLLANICAK SİSTEM ANALİZ RAPOLARIM\SİSTEM ANALİZİ SON HALİ\son hali\Petshop\Petshop\obj\Debug\Petshop.csproj.SuggestedBindingRedirects.cache
+C:\Users\tayyi\Desktop\YENİ YOLLANICAK SİSTEM ANALİZ RAPOLARIM\SİSTEM ANALİZİ SON HALİ\son hali\Petshop\Petshop\obj\Debug\Petshop.frmAnasayfa.resources
+C:\Users\tayyi\Desktop\YENİ YOLLANICAK SİSTEM ANALİZ RAPOLARIM\SİSTEM ANALİZİ SON HALİ\son hali\Petshop\Petshop\obj\Debug\Petshop.frmBorcOde.resources
+C:\Users\tayyi\Desktop\YENİ YOLLANICAK SİSTEM ANALİZ RAPOLARIM\SİSTEM ANALİZİ SON HALİ\son hali\Petshop\Petshop\obj\Debug\Petshop.frmKullaniciGirisi.resources
+C:\Users\tayyi\Desktop\YENİ YOLLANICAK SİSTEM ANALİZ RAPOLARIM\SİSTEM ANALİZİ SON HALİ\son hali\Petshop\Petshop\obj\Debug\Petshop.frmKullaniciIslemleri.resources
+C:\Users\tayyi\Desktop\YENİ YOLLANICAK SİSTEM ANALİZ RAPOLARIM\SİSTEM ANALİZİ SON HALİ\son hali\Petshop\Petshop\obj\Debug\Petshop.frmKullanicilar.resources
+C:\Users\tayyi\Desktop\YENİ YOLLANICAK SİSTEM ANALİZ RAPOLARIM\SİSTEM ANALİZİ SON HALİ\son hali\Petshop\Petshop\obj\Debug\Petshop.frmMusteriIslemleri.resources
+C:\Users\tayyi\Desktop\YENİ YOLLANICAK SİSTEM ANALİZ RAPOLARIM\SİSTEM ANALİZİ SON HALİ\son hali\Petshop\Petshop\obj\Debug\Petshop.frmMusteriler.resources
+C:\Users\tayyi\Desktop\YENİ YOLLANICAK SİSTEM ANALİZ RAPOLARIM\SİSTEM ANALİZİ SON HALİ\son hali\Petshop\Petshop\obj\Debug\Petshop.Properties.Resources.resources
+C:\Users\tayyi\Desktop\YENİ YOLLANICAK SİSTEM ANALİZ RAPOLARIM\SİSTEM ANALİZİ SON HALİ\son hali\Petshop\Petshop\obj\Debug\Petshop.frmSatis.resources
+C:\Users\tayyi\Desktop\YENİ YOLLANICAK SİSTEM ANALİZ RAPOLARIM\SİSTEM ANALİZİ SON HALİ\son hali\Petshop\Petshop\obj\Debug\Petshop.frmSatislar.resources
+C:\Users\tayyi\Desktop\YENİ YOLLANICAK SİSTEM ANALİZ RAPOLARIM\SİSTEM ANALİZİ SON HALİ\son hali\Petshop\Petshop\obj\Debug\Petshop.frmStok.resources
+C:\Users\tayyi\Desktop\YENİ YOLLANICAK SİSTEM ANALİZ RAPOLARIM\SİSTEM ANALİZİ SON HALİ\son hali\Petshop\Petshop\obj\Debug\Petshop.frmUrunIslemleri.resources
+C:\Users\tayyi\Desktop\YENİ YOLLANICAK SİSTEM ANALİZ RAPOLARIM\SİSTEM ANALİZİ SON HALİ\son hali\Petshop\Petshop\obj\Debug\Petshop.frmUrunler.resources
+C:\Users\tayyi\Desktop\YENİ YOLLANICAK SİSTEM ANALİZ RAPOLARIM\SİSTEM ANALİZİ SON HALİ\son hali\Petshop\Petshop\obj\Debug\Petshop.csproj.GenerateResource.cache
+C:\Users\tayyi\Desktop\YENİ YOLLANICAK SİSTEM ANALİZ RAPOLARIM\SİSTEM ANALİZİ SON HALİ\son hali\Petshop\Petshop\obj\Debug\Petshop.csproj.CoreCompileInputs.cache
+C:\Users\tayyi\Desktop\YENİ YOLLANICAK SİSTEM ANALİZ RAPOLARIM\SİSTEM ANALİZİ SON HALİ\son hali\Petshop\Petshop\obj\Debug\dpR Satış ve Stok Takip.exe
+C:\Users\tayyi\Desktop\YENİ YOLLANICAK SİSTEM ANALİZ RAPOLARIM\SİSTEM ANALİZİ SON HALİ\son hali\Petshop\Petshop\obj\Debug\dpR Satış ve Stok Takip.pdb
+C:\Users\ROOT\Desktop\SISTEM_ANALIZI_SON_HALI\S¦-STEM ANAL¦-Z¦- SON HAL¦-\son hali\Petshop\Petshop\bin\Debug\dpR Satış ve Stok Takip.exe.config
+C:\Users\ROOT\Desktop\SISTEM_ANALIZI_SON_HALI\S¦-STEM ANAL¦-Z¦- SON HAL¦-\son hali\Petshop\Petshop\bin\Debug\dpR Satış ve Stok Takip.exe
+C:\Users\ROOT\Desktop\SISTEM_ANALIZI_SON_HALI\S¦-STEM ANAL¦-Z¦- SON HAL¦-\son hali\Petshop\Petshop\bin\Debug\dpR Satış ve Stok Takip.pdb
+C:\Users\ROOT\Desktop\SISTEM_ANALIZI_SON_HALI\S¦-STEM ANAL¦-Z¦- SON HAL¦-\son hali\Petshop\Petshop\obj\Debug\Petshop.csproj.AssemblyReference.cache
+C:\Users\ROOT\Desktop\SISTEM_ANALIZI_SON_HALI\S¦-STEM ANAL¦-Z¦- SON HAL¦-\son hali\Petshop\Petshop\obj\Debug\Petshop.csproj.SuggestedBindingRedirects.cache
+C:\Users\ROOT\Desktop\SISTEM_ANALIZI_SON_HALI\S¦-STEM ANAL¦-Z¦- SON HAL¦-\son hali\Petshop\Petshop\obj\Debug\Petshop.frmAnasayfa.resources
+C:\Users\ROOT\Desktop\SISTEM_ANALIZI_SON_HALI\S¦-STEM ANAL¦-Z¦- SON HAL¦-\son hali\Petshop\Petshop\obj\Debug\Petshop.frmBorcOde.resources
+C:\Users\ROOT\Desktop\SISTEM_ANALIZI_SON_HALI\S¦-STEM ANAL¦-Z¦- SON HAL¦-\son hali\Petshop\Petshop\obj\Debug\Petshop.frmKullaniciGirisi.resources
+C:\Users\ROOT\Desktop\SISTEM_ANALIZI_SON_HALI\S¦-STEM ANAL¦-Z¦- SON HAL¦-\son hali\Petshop\Petshop\obj\Debug\Petshop.frmKullaniciIslemleri.resources
+C:\Users\ROOT\Desktop\SISTEM_ANALIZI_SON_HALI\S¦-STEM ANAL¦-Z¦- SON HAL¦-\son hali\Petshop\Petshop\obj\Debug\Petshop.frmKullanicilar.resources
+C:\Users\ROOT\Desktop\SISTEM_ANALIZI_SON_HALI\S¦-STEM ANAL¦-Z¦- SON HAL¦-\son hali\Petshop\Petshop\obj\Debug\Petshop.frmMusteriIslemleri.resources
+C:\Users\ROOT\Desktop\SISTEM_ANALIZI_SON_HALI\S¦-STEM ANAL¦-Z¦- SON HAL¦-\son hali\Petshop\Petshop\obj\Debug\Petshop.frmMusteriler.resources
+C:\Users\ROOT\Desktop\SISTEM_ANALIZI_SON_HALI\S¦-STEM ANAL¦-Z¦- SON HAL¦-\son hali\Petshop\Petshop\obj\Debug\Petshop.Properties.Resources.resources
+C:\Users\ROOT\Desktop\SISTEM_ANALIZI_SON_HALI\S¦-STEM ANAL¦-Z¦- SON HAL¦-\son hali\Petshop\Petshop\obj\Debug\Petshop.frmSatis.resources
+C:\Users\ROOT\Desktop\SISTEM_ANALIZI_SON_HALI\S¦-STEM ANAL¦-Z¦- SON HAL¦-\son hali\Petshop\Petshop\obj\Debug\Petshop.frmSatislar.resources
+C:\Users\ROOT\Desktop\SISTEM_ANALIZI_SON_HALI\S¦-STEM ANAL¦-Z¦- SON HAL¦-\son hali\Petshop\Petshop\obj\Debug\Petshop.frmStok.resources
+C:\Users\ROOT\Desktop\SISTEM_ANALIZI_SON_HALI\S¦-STEM ANAL¦-Z¦- SON HAL¦-\son hali\Petshop\Petshop\obj\Debug\Petshop.frmUrunIslemleri.resources
+C:\Users\ROOT\Desktop\SISTEM_ANALIZI_SON_HALI\S¦-STEM ANAL¦-Z¦- SON HAL¦-\son hali\Petshop\Petshop\obj\Debug\Petshop.frmUrunler.resources
+C:\Users\ROOT\Desktop\SISTEM_ANALIZI_SON_HALI\S¦-STEM ANAL¦-Z¦- SON HAL¦-\son hali\Petshop\Petshop\obj\Debug\Petshop.csproj.GenerateResource.cache
+C:\Users\ROOT\Desktop\SISTEM_ANALIZI_SON_HALI\S¦-STEM ANAL¦-Z¦- SON HAL¦-\son hali\Petshop\Petshop\obj\Debug\Petshop.csproj.CoreCompileInputs.cache
+C:\Users\ROOT\Desktop\SISTEM_ANALIZI_SON_HALI\S¦-STEM ANAL¦-Z¦- SON HAL¦-\son hali\Petshop\Petshop\obj\Debug\dpR Satış ve Stok Takip.exe
+C:\Users\ROOT\Desktop\SISTEM_ANALIZI_SON_HALI\S¦-STEM ANAL¦-Z¦- SON HAL¦-\son hali\Petshop\Petshop\obj\Debug\dpR Satış ve Stok Takip.pdb
+C:\Users\ROOT\Desktop\SISTEM_ANALIZI_SON_HALI\S¦-STEM ANAL¦-Z¦- SON HAL¦-\son hali\Petshop\Petshop\obj\Debug\Petshop.frmOdenenBorclar.resources
+C:\Users\tayyi\Desktop\14.05 YAPTIGIM ÖDEVLER\SISTEM_ANALIZI_SON_HALI\S¦-STEM ANAL¦-Z¦- SON HAL¦-\son hali\Petshop\Petshop\bin\Debug\dpR Satış ve Stok Takip.exe.config
+C:\Users\tayyi\Desktop\14.05 YAPTIGIM ÖDEVLER\SISTEM_ANALIZI_SON_HALI\S¦-STEM ANAL¦-Z¦- SON HAL¦-\son hali\Petshop\Petshop\bin\Debug\dpR Satış ve Stok Takip.exe
+C:\Users\tayyi\Desktop\14.05 YAPTIGIM ÖDEVLER\SISTEM_ANALIZI_SON_HALI\S¦-STEM ANAL¦-Z¦- SON HAL¦-\son hali\Petshop\Petshop\bin\Debug\dpR Satış ve Stok Takip.pdb
+C:\Users\tayyi\Desktop\14.05 YAPTIGIM ÖDEVLER\SISTEM_ANALIZI_SON_HALI\S¦-STEM ANAL¦-Z¦- SON HAL¦-\son hali\Petshop\Petshop\obj\Debug\Petshop.csproj.AssemblyReference.cache
+C:\Users\tayyi\Desktop\14.05 YAPTIGIM ÖDEVLER\SISTEM_ANALIZI_SON_HALI\S¦-STEM ANAL¦-Z¦- SON HAL¦-\son hali\Petshop\Petshop\obj\Debug\Petshop.csproj.SuggestedBindingRedirects.cache
+C:\Users\tayyi\Desktop\14.05 YAPTIGIM ÖDEVLER\SISTEM_ANALIZI_SON_HALI\S¦-STEM ANAL¦-Z¦- SON HAL¦-\son hali\Petshop\Petshop\obj\Debug\Petshop.frmAnasayfa.resources
+C:\Users\tayyi\Desktop\14.05 YAPTIGIM ÖDEVLER\SISTEM_ANALIZI_SON_HALI\S¦-STEM ANAL¦-Z¦- SON HAL¦-\son hali\Petshop\Petshop\obj\Debug\Petshop.frmBorcOde.resources
+C:\Users\tayyi\Desktop\14.05 YAPTIGIM ÖDEVLER\SISTEM_ANALIZI_SON_HALI\S¦-STEM ANAL¦-Z¦- SON HAL¦-\son hali\Petshop\Petshop\obj\Debug\Petshop.frmKullaniciGirisi.resources
+C:\Users\tayyi\Desktop\14.05 YAPTIGIM ÖDEVLER\SISTEM_ANALIZI_SON_HALI\S¦-STEM ANAL¦-Z¦- SON HAL¦-\son hali\Petshop\Petshop\obj\Debug\Petshop.frmKullaniciIslemleri.resources
+C:\Users\tayyi\Desktop\14.05 YAPTIGIM ÖDEVLER\SISTEM_ANALIZI_SON_HALI\S¦-STEM ANAL¦-Z¦- SON HAL¦-\son hali\Petshop\Petshop\obj\Debug\Petshop.frmKullanicilar.resources
+C:\Users\tayyi\Desktop\14.05 YAPTIGIM ÖDEVLER\SISTEM_ANALIZI_SON_HALI\S¦-STEM ANAL¦-Z¦- SON HAL¦-\son hali\Petshop\Petshop\obj\Debug\Petshop.frmMusteriIslemleri.resources
+C:\Users\tayyi\Desktop\14.05 YAPTIGIM ÖDEVLER\SISTEM_ANALIZI_SON_HALI\S¦-STEM ANAL¦-Z¦- SON HAL¦-\son hali\Petshop\Petshop\obj\Debug\Petshop.frmMusteriler.resources
+C:\Users\tayyi\Desktop\14.05 YAPTIGIM ÖDEVLER\SISTEM_ANALIZI_SON_HALI\S¦-STEM ANAL¦-Z¦- SON HAL¦-\son hali\Petshop\Petshop\obj\Debug\Petshop.frmOdenenBorclar.resources
+C:\Users\tayyi\Desktop\14.05 YAPTIGIM ÖDEVLER\SISTEM_ANALIZI_SON_HALI\S¦-STEM ANAL¦-Z¦- SON HAL¦-\son hali\Petshop\Petshop\obj\Debug\Petshop.Properties.Resources.resources
+C:\Users\tayyi\Desktop\14.05 YAPTIGIM ÖDEVLER\SISTEM_ANALIZI_SON_HALI\S¦-STEM ANAL¦-Z¦- SON HAL¦-\son hali\Petshop\Petshop\obj\Debug\Petshop.frmSatis.resources
+C:\Users\tayyi\Desktop\14.05 YAPTIGIM ÖDEVLER\SISTEM_ANALIZI_SON_HALI\S¦-STEM ANAL¦-Z¦- SON HAL¦-\son hali\Petshop\Petshop\obj\Debug\Petshop.frmSatislar.resources
+C:\Users\tayyi\Desktop\14.05 YAPTIGIM ÖDEVLER\SISTEM_ANALIZI_SON_HALI\S¦-STEM ANAL¦-Z¦- SON HAL¦-\son hali\Petshop\Petshop\obj\Debug\Petshop.frmStok.resources
+C:\Users\tayyi\Desktop\14.05 YAPTIGIM ÖDEVLER\SISTEM_ANALIZI_SON_HALI\S¦-STEM ANAL¦-Z¦- SON HAL¦-\son hali\Petshop\Petshop\obj\Debug\Petshop.frmUrunIslemleri.resources
+C:\Users\tayyi\Desktop\14.05 YAPTIGIM ÖDEVLER\SISTEM_ANALIZI_SON_HALI\S¦-STEM ANAL¦-Z¦- SON HAL¦-\son hali\Petshop\Petshop\obj\Debug\Petshop.frmUrunler.resources
+C:\Users\tayyi\Desktop\14.05 YAPTIGIM ÖDEVLER\SISTEM_ANALIZI_SON_HALI\S¦-STEM ANAL¦-Z¦- SON HAL¦-\son hali\Petshop\Petshop\obj\Debug\Petshop.csproj.GenerateResource.cache
+C:\Users\tayyi\Desktop\14.05 YAPTIGIM ÖDEVLER\SISTEM_ANALIZI_SON_HALI\S¦-STEM ANAL¦-Z¦- SON HAL¦-\son hali\Petshop\Petshop\obj\Debug\Petshop.csproj.CoreCompileInputs.cache
+C:\Users\tayyi\Desktop\14.05 YAPTIGIM ÖDEVLER\SISTEM_ANALIZI_SON_HALI\S¦-STEM ANAL¦-Z¦- SON HAL¦-\son hali\Petshop\Petshop\obj\Debug\dpR Satış ve Stok Takip.exe
+C:\Users\tayyi\Desktop\14.05 YAPTIGIM ÖDEVLER\SISTEM_ANALIZI_SON_HALI\S¦-STEM ANAL¦-Z¦- SON HAL¦-\son hali\Petshop\Petshop\obj\Debug\dpR Satış ve Stok Takip.pdb
+C:\Users\tayyi\Desktop\Petshop\Petshop\Petshop\bin\Debug\dpR Satış ve Stok Takip.exe.config
+C:\Users\tayyi\Desktop\Petshop\Petshop\Petshop\bin\Debug\dpR Satış ve Stok Takip.exe
+C:\Users\tayyi\Desktop\Petshop\Petshop\Petshop\bin\Debug\dpR Satış ve Stok Takip.pdb
+C:\Users\tayyi\Desktop\Petshop\Petshop\Petshop\obj\Debug\Petshop.csproj.AssemblyReference.cache
+C:\Users\tayyi\Desktop\Petshop\Petshop\Petshop\obj\Debug\Petshop.csproj.SuggestedBindingRedirects.cache
+C:\Users\tayyi\Desktop\Petshop\Petshop\Petshop\obj\Debug\Petshop.frmAnasayfa.resources
+C:\Users\tayyi\Desktop\Petshop\Petshop\Petshop\obj\Debug\Petshop.frmBorcOde.resources
+C:\Users\tayyi\Desktop\Petshop\Petshop\Petshop\obj\Debug\Petshop.frmKullaniciGirisi.resources
+C:\Users\tayyi\Desktop\Petshop\Petshop\Petshop\obj\Debug\Petshop.frmKullaniciIslemleri.resources
+C:\Users\tayyi\Desktop\Petshop\Petshop\Petshop\obj\Debug\Petshop.frmKullanicilar.resources
+C:\Users\tayyi\Desktop\Petshop\Petshop\Petshop\obj\Debug\Petshop.frmMusteriIslemleri.resources
+C:\Users\tayyi\Desktop\Petshop\Petshop\Petshop\obj\Debug\Petshop.frmMusteriler.resources
+C:\Users\tayyi\Desktop\Petshop\Petshop\Petshop\obj\Debug\Petshop.frmOdenenBorclar.resources
+C:\Users\tayyi\Desktop\Petshop\Petshop\Petshop\obj\Debug\Petshop.Properties.Resources.resources
+C:\Users\tayyi\Desktop\Petshop\Petshop\Petshop\obj\Debug\Petshop.frmSatis.resources
+C:\Users\tayyi\Desktop\Petshop\Petshop\Petshop\obj\Debug\Petshop.frmSatislar.resources
+C:\Users\tayyi\Desktop\Petshop\Petshop\Petshop\obj\Debug\Petshop.frmStok.resources
+C:\Users\tayyi\Desktop\Petshop\Petshop\Petshop\obj\Debug\Petshop.frmUrunIslemleri.resources
+C:\Users\tayyi\Desktop\Petshop\Petshop\Petshop\obj\Debug\Petshop.frmUrunler.resources
+C:\Users\tayyi\Desktop\Petshop\Petshop\Petshop\obj\Debug\Petshop.csproj.GenerateResource.cache
+C:\Users\tayyi\Desktop\Petshop\Petshop\Petshop\obj\Debug\Petshop.csproj.CoreCompileInputs.cache
+C:\Users\tayyi\Desktop\Petshop\Petshop\Petshop\obj\Debug\dpR Satış ve Stok Takip.exe
+C:\Users\tayyi\Desktop\Petshop\Petshop\Petshop\obj\Debug\dpR Satış ve Stok Takip.pdb
